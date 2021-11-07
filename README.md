@@ -1,6 +1,6 @@
 # Author - Anonyavox
 
-github.com/AnonyVox
+https://github.com/AnonyVox
 
 # Description
 
@@ -35,6 +35,5 @@ It's compulsory or else it will not work.
  $ sudo pip3 install -r requirements.txt
  
  $ python3 run.py
-
 
 
