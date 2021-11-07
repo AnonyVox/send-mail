@@ -32,7 +32,7 @@ It's compulsory or else it will not work.
  
  $ cd send-mail
  
- $ sudo pip3 install -r requirements.txt 
+ $ sudo pip3 install -r requirements.txt
  
  $ python3 run.py
 
